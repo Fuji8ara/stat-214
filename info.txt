@@ -1,5 +1,5 @@
-name = "Firstname Lastname"
-SID = "0123456789"
-email = "first_last@berkeley.edu"
-github_name = "firstnamelastname"
+name = "Xiaoyi Chen"
+SID = "3038741565"
+email = "eric-chen@berkeley.edu"
+github_name = "Fuji8ara"
 
